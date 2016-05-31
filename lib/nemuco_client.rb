@@ -1,5 +1,6 @@
 require "nemuco_client/version"
 require 'recursive-open-struct'
+require 'oauth2'
 
 module NemucoClient
   class API
